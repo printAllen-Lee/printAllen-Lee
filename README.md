@@ -1,6 +1,5 @@
-## Olá eu sou Allen Lee 👋,Estudante de: Back end - Front end.
+## Olá eu sou Allen👋,Estudante de: Back end - Front end.
 
-##
 
 <div align="line">
   <a href="https://github.com/printAllen-Lee">
@@ -12,6 +11,12 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align="center" height="40" width="40"src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+
+
+
   
 </div>
   
