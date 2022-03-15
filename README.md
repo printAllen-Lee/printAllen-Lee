@@ -1,7 +1,4 @@
-## Olá eu sou Allen Lee👋
-
-- 🌱 Estudando: Back end - Front end.
-- 😄 Pronouns:Ele/dele.
+## Olá eu sou Allen Lee 👋,Estudante de: Back end - Front end.
 
 ##
 
