@@ -14,10 +14,8 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img align="center" height="40" width="40"src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-
-
-
   
+
 </div>
   
 ##
@@ -28,5 +26,7 @@
   <a href="https://www.instagram.com/4llen_jr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:printallenlee@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/printallenlee/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+ ##
   ![Snake animation](https://github.com/printAllen-Lee/printAllen-Lee/blob/output/github-contribution-grid-snake.svg)
  </div>
