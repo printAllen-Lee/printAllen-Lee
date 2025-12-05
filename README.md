@@ -1,4 +1,4 @@
-## Hello I'm Dev Allen👋, um Dev artista <br/>📍Currently studying at <a>Digital House</a>📚
+## Hello I'm Dev Allen👋, um Dev artista 
 
 
 
