@@ -15,11 +15,20 @@
   <img align="center" alt="Allen-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Allen-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Allen-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <i class="devicon-react-original colored"></i>
+
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" height="60" width="60"src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img align="center" height="60" width="60" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claudecode/claudecode-original.svg" />       
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" />
   
-
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  
+  <img  align="center" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lovable/lovable-original-wordmark.svg" />
+          
+ 
 </div>
   
 ##
